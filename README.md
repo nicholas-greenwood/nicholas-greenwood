@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**nicholas-greenwood/nicholas-greenwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+                 &lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;           .----------------------------.
+               _&gt;&gt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;       /               _____________)
+      \|/      \&lt;&lt;&lt;&lt;&lt;  &lt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;   /            _______________)
+-------*--===&lt;=&lt;&lt;           &lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;/         _______________)
+      /|\     &lt;&lt; @    _/      &lt;&lt;&lt;&lt;&lt;/       _____________)
+             &lt;  \    /  \      &gt;&gt;&gt;/      ________)  ____
+                 |  |   |       &lt;/      ______)____((- \\\\
+                 o_|   /        /      ______)         \  \\\\    \\\\\\\
+                      |  ._    (      ______)           \  \\\\\\\\\\\\\\\\
+                      | /       `----------'    /       /     \\\\\\\\\
+              .______/\/     /                 /       /          \\\
+             / __.____/    _/         ________(       /\
+            / / / ________/`---------'         \     /  \_
+           / /  \ \                             \   \ \_  \
+          ( &lt;    \ \                             &gt;  /    \ \
+           \/      \\_                          / /       &gt; )
+                    \_|                        / /       / /
+                                             _//       _//
+                                            /_|       /_| 
+</pre>
