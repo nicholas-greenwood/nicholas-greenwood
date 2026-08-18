@@ -1,5 +1,5 @@
 <pre>
-                 &lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;           .----------------------------.
+                 &lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;           .-----------------------------.
                _&gt;&gt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;       /               _____________)
       \|/      \&lt;&lt;&lt;&lt;&lt;  &lt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;   /            _______________)
 -------*--===&lt;=&lt;&lt;           &lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;/         _______________)
