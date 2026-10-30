@@ -1,21 +1,4 @@
-<pre>
-                 &lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;           .-----------------------------.
-               _&gt;&gt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;       /               _____________)
-      \|/      \&lt;&lt;&lt;&lt;&lt;  &lt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;   /            _______________)
--------*--===&lt;=&lt;&lt;           &lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;/         _______________)
-      /|\     &lt;&lt; @    _/      &lt;&lt;&lt;&lt;&lt;/       _____________)
-             &lt;  \    /  \      &gt;&gt;&gt;/      ________)  ____
-                 |  |   |       &lt;/      ______)____((- \\\\
-                 o_|   /        /      ______)         \  \\\\    \\\\\\\
-                      |  ._    (      ______)           \  \\\\\\\\\\\\\\\\
-                      | /       `----------'    /       /     \\\\\\\\\
-              .______/\/     /                 /       /          \\\
-             / __.____/    _/         ________(       /\
-            / / / ________/`---------'         \     /  \_
-           / /  \ \                             \   \ \_  \
-          ( &lt;    \ \                             &gt;  /    \ \
-           \/      \\_                          / /       &gt; )
-                    \_|                        / /       / /
-                                             _//       _//
-                                            /_|       /_| 
-</pre>
+<picture>
+  <source srcset="https://github.com/user-attachments/assets/b60ae30f-9954-40d3-8b57-876b7656c7c7" type="image/gif">
+  <img src="https://github.com/user-attachments/assets/2ae0b6e6-7120-4fa3-acca-f2af953d81a2" alt="Animated ASCII snow train" width="1000">
+</picture>
