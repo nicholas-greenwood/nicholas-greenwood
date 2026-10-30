@@ -1,4 +1,4 @@
 <picture>
-  <source srcset="https://github.com/user-attachments/assets/b60ae30f-9954-40d3-8b57-876b7656c7c7" type="image/gif">
-  <img src="https://github.com/user-attachments/assets/2ae0b6e6-7120-4fa3-acca-f2af953d81a2" alt="Animated ASCII snow train" width="1000">
+  <source srcset="https://github.com/user-attachments/assets/a30e0cf5-0fa4-429b-a5d5-ce0005b936fb" type="image/gif">
+  <img src="https://github.com/user-attachments/assets/11e57339-1dc2-4b1d-a9cf-7008a59b6669" alt="Animated ASCII snow train" width="1000">
 </picture>
